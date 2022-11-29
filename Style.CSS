@@ -1,0 +1,31 @@
+.inp{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+input{
+    padding-right: 18px;
+    border-radius: 6px;
+    height: 65px;
+    width: 228px;
+    box-shadow: inset 0 0 25px 0 rgb(113 110 110 / 70%);
+    border: none;
+    
+}
+.btn-style{
+    padding: 15px;
+    color: mintcream;
+    background-color: darkorange;
+    border-radius: 25px;
+    font-size: 21px;
+    border: 5px solid lightgray;
+}
+.border-line{
+    border: 2px solid black;
+    border-bottom-width: 15px;
+    border-top-width: 15px;
+    border-radius: 50px;
+    background-color: aqua;
+    padding: 22px;
+    margin: 0;
+}
